@@ -14,12 +14,24 @@ First we need to install the following tools:
 
 [Docker Download](https://www.docker.com/get-started)
 
-Then, in our terminal, inside the project's folder:
+Then, in our terminal(Mac), inside the project's folder:
+
+- Hyperkit
 
 ```
-~$ Hyperkit - brew install hyperkit
-~$ Minikube - brew install minikube
-~$ Helm - brew install helm
+~$ brew install hyperkit
+```
+
+- Minikube
+
+```
+~$ brew install minikube
+```
+
+- Helm
+
+```
+~$ brew install helm
 ```
 
 #### Create Minikube Cluster
